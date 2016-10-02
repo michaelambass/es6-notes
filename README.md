@@ -1,4 +1,5 @@
-# ES6 (ECMAScript 6) notes
+# ES6 (ECMAScript 6) Javascript - notes 
+
 ## Variables 
 **var** : scoped to the nearest function block (global if outside any block)
 
